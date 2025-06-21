@@ -78,3 +78,51 @@ The information related to variables given can be found in the Data Information.
  ● Report all the steps taken in the data preprocessing, modeling, and evaluation
  phases.
  ● Provide a final model that balances accuracy with interpretability.
+3.Third Project- Early disease detection
+Part C: Early Disease Detection
+ 1. Overview
+ Cardiovascular diseases (CVDs), including heart disease, are the leading cause of death
+ worldwide. Early detection of heart disease is critical for preventing serious health outcomes
+ and improving the quality of life for patients. With the increasing availability of medical data,
+ machine learning models can be used to predict whether a patient is likely to develop heart
+ disease based on certain health indicators.
+ In this project, you will build a classification model to predict whether an individual is likely to
+ have heart disease or not. The dataset provided includes various health and demographic
+ factors such as age, blood pressure, cholesterol levels, and lifestyle habits (e.g., smoking
+and alcohol consumption). The goal is to train a model to identify which individuals have
+ heart disease based on these features.
+ 2. Problem Statement
+ You are provided with a dataset that contains health-related information about individuals.
+ Your task is to develop a machine learning model that can predict the presence of heart
+ disease based on the provided features. The target variable in the dataset is "disease,"
+ which indicates whether a person has heart disease (1) or not (0).
+ You need to perform the following tasks:
+ Data Exploration and Preprocessing: Understand the dataset, handle missing values,
+ perform feature engineering if necessary, and prepare the data for model training.
+ Model Development: Train a classification model to predict the presence of heart disease
+ using the features provided in the dataset.
+ Model Evaluation: Evaluate the model’s performance using appropriate classification metrics
+ such as accuracy, precision, recall, and F1-score. Identify the best-performing model based
+ on these metrics.
+ Insights and Reporting: Analyze the results and provide insights into which factors are the
+ most significant predictors of heart disease.
+ 3. Dataset Information
+ Dataset:
+ Data_file
+ The information related to variables given can be found in the Data Information.pdf.
+ 4. Deliverables
+ Exploratory Data Analysis (EDA): Analyze the dataset to understand the distribution of the
+ variables, check for missing data, and identify any relationships or patterns between the
+ features and the target variable (disease).
+ Data Preprocessing: Handle missing or erroneous values, normalize/standardize data if
+ necessary, and perform feature engineering if required.
+ Model Development: Train various classification models (e.g., Logistic Regression, Decision
+ Trees, SVM, etc.) and compare their performance.
+ Mode Evaluation: l Evaluate your models using performance metrics such as:
+ ● Accuracy
+ ● Precision
+ ● Recall
+ ● F1-Score
+ Insights and Conclusion: Based on your model and analysis, provide insights into the
+ factors that are most predictive of heart disease and make recommendations on how to
+ improve heart disease prediction models
